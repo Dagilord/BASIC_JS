@@ -101,3 +101,7 @@ console.log(pohar);
 // - - }
 // - CALLBACKS/FOREACH
 
+
+
+
+
